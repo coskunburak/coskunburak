@@ -3,7 +3,7 @@
 <p align="center">
   <strong>iOS & Mobile Platform Engineer</strong><br>
   <i>Swift · TypeScript · Java/Spring Boot · Flutter · Python/FastAPI</i><br>
-  📍 İstanbul, Turkey | 🎓 Sakarya University CS (Class of 2026)
+  📍 Kocaeli, Turkey | 🎓 Sakarya University CS (Class of 2026)
 </p>
 
 <p align="center">
